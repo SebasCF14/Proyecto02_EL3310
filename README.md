@@ -10,7 +10,7 @@ Se realizaron 5 pruebas diferentes para el multiplicador, utilizando un módulo 
 - Multiplicación de escala media
 El banco de pruebas sirvió para analizar el comportamiento de la ALU ante distintos casos específicos de multiplicación. Así mismo, nos permitió encontrar errores en la limpieza de los productos anteriores cuando se realizaba una nueva multiplicación.
 
-![Banco de pruebas del multiplicador](Imagenes/PruebaM.jpg)
+![Banco de pruebas del multiplicador](Imagenes/PruebasM.jpg)
 
 ![Formas de onda del multiplicador](Imagenes/WaveM.jpg)
 
@@ -30,7 +30,7 @@ La división requería realizar más pruebas debido a sus limitaciones matemáti
 2. La solución implementada donde se separa el cociente y el residuo
 Se opta por la segunda por el objetivo principal del proyecto, además de evitar el uso de decimales en divisiones periódicas.
 
-![Banco de pruebas del multiplicador](Imagenes/PruebaD.jpg)
+![Banco de pruebas del multiplicador](Imagenes/PruebasD.jpg)
 
 ![Formas de onda del multiplicador](Imagenes/WaveD.jpg)
 
